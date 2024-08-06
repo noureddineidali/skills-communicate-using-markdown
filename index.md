@@ -8,6 +8,6 @@ These are the steps I used to do that
 2. Then I used `git fetch origin` to get the up-to-date information about the remote branches
 
 3. I then checked out the branch start-markdown from the remote repo to the local repo using `git checkout -b start-markdown origin/start-markdown`
-> In this branch the authors provided an empty file **index.md** which is the current file I am using 
+> In this branch the authors provided an empty file **index.md** which is the current file I am editing right now
 
 
